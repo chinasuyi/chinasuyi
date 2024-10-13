@@ -12,6 +12,6 @@
 
 <h1>|正在学习</h1>
 
-[![我的技能](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
+[![我的技能](https://skillicons.dev/icons?i=aws,gcp,React,docker,vue,flutter&perline=6)](https://skillicons.dev)
 
 
