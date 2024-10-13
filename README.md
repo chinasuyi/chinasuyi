@@ -3,8 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinasuyi)
 
 <h1>关于我</h1>
-<h5>🧒高中生一名</h5>
-🛌爱睡觉觉
+<h4>🧒高中生一名</h4>
+<h4>🌊热爱冒险</h4>
+<h4>🐶喜欢小动物</h4>
+
 
 
 
