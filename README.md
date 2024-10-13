@@ -19,7 +19,8 @@
 <h1>|正在学习</h1>
 
 [![我的技能](https://skillicons.dev/icons?i=docker,react,vue,mysql,bash&perline=6)](https://skillicons.dev)
-<h1>|语言统计</h1>
+<h1>|代码统计</h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinasuyi&layout=compact&theme=tokyonight)
 
 <p align="center">
