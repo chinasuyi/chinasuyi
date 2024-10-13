@@ -20,6 +20,8 @@
 
 [![我的技能](https://skillicons.dev/icons?i=docker,react,vue,mysql,bash&perline=6)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinasuyi&layout=compact&theme=tokyonight)
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
