@@ -1,3 +1,1 @@
-如果你喜欢我的开源项目请给个星标
-If you like my open source project
-please give a star
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinasuyi)
