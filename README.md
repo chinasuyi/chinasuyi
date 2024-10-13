@@ -22,6 +22,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={chinasuyi}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={halo-dev}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
