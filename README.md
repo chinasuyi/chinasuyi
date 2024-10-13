@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinasuyi)
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={chinasuyi}&theme=github-compact&hide_border=true&area=true" />
+
 <h1>|关于我</h1>
 <h5>• 🧒在校高中生一名长的一般</h5>
 <h5>• 🎼爱听周杰伦的歌</h5>
