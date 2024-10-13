@@ -8,6 +8,8 @@
 <h4>• 🐶喜欢小动物</h4>
 <h1>我的技能</h1>
 
+[![我的技能](https://skillicons.dev/icons?i=js,html,css,python，ps)](https://skillicons.dev)
+
 
 
 
