@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcom&fontSize=90&fontAlign=50&fontAlignY=30&desc=路漫漫其修远兮，吾将上下而求索。&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcom&fontSize=90&fontAlign=50&fontAlignY=30&desc=路漫漫其修远兮 吾将上下而求索&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 </p>
 <h1>主页👋</h1>
