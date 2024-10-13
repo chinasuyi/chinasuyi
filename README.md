@@ -12,5 +12,6 @@
 
 <h1>|正在学习</h1>
 
+[![我的技能](https://skillicons.dev/icons?i=c,bash,React,vue,go&perline=3)](https://skillicons.dev)
 
 
