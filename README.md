@@ -8,7 +8,7 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chinasuyi&theme=github-compact&hide_border=true&area=true" />
 
-<h1>|关于我</h1>
+<h1>|about me</h1>
 <h5>• 🧒在校高中生一名长的一般</h5>
 <h5>• 🎼爱听周杰伦的歌</h5>
 <h5>• 🐶喜欢小动物猫狗</h5>
@@ -16,10 +16,10 @@
 
 [![我的技能](https://skillicons.dev/icons?i=linux,python,vim,html,photoshop,git&perline=6)](https://skillicons.dev)
 
-<h1>|正在学习</h1>
+<h1>|I am study</h1>
 
 [![我的技能](https://skillicons.dev/icons?i=docker,react,vue,mysql,bash&perline=6)](https://skillicons.dev)
-<h1>|常用语言</h1>
+<h1>|language</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinasuyi&layout=compact&theme=tokyonight)
 
