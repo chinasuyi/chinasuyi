@@ -1,4 +1,4 @@
-# 👋 你好，我是 苏逸 (SuYi)
+# 👋 Hi，l’am Lv Yaguang
 
 ![Student](https://img.shields.io/badge/Student-Learning-blue?style=for-the-badge&logo=bookstack&logoColor=white)  
 🎯 持续学习、成长为更强的开发者  
