@@ -4,7 +4,8 @@
 🎯 持续学习、成长为更强的开发者  
 💻 计算机科学 | 软件开发 | 网络安全  
 
----
+
+  <img src="giphy.gif" alt="Description of GIF">
 
 ### 🛠 技能栈
 
